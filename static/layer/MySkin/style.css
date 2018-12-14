@@ -1,0 +1,95 @@
+body .layer-ext-myskin .layui-layer-content{color:black;}
+
+body {font-size:1em;}
+
+html {font-size: 100%;}
+
+/*滚动条隐藏 兼容谷歌、IE、火狐*/
+.autoScroll{
+  position:relative;
+  height: 100%;
+  width: -webkit-calc(100% + 17px);
+  width: -ms-calc(100% + 17px);  /*ie内核*/
+  width: -moz-calc(100% + 17px);
+  width: calc(100% + 17px);
+  overflow-y: scroll;
+}
+
+/*select兼容及默认样式*/
+select::-ms-expand {
+  display: none;
+}
+select {
+  cursor: pointer;
+  /* 将默认的select选择框样式清除 */
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -ms-appearance: none;
+}
+
+
+/*element——兼容样式--勿动Start*/
+
+.el-step__icon-inner{
+  margin: 25% 27%;
+}
+.el-step.is-horizontal{
+  width: 50%;
+}
+
+
+.el-range-editor.el-input__inner{
+  background:rgba(255,255,255,0.1);
+}
+
+@media only screen and (max-width: 1376px) {
+  .el-input__inner{
+    height: 30px !important;
+    line-height: 30px !important;
+  }
+  .el-date-editor .el-range__icon{
+    line-height: 24px !important;
+  }
+  .el-date-editor  .el-range-separator{
+    line-height: 24px !important;
+  }
+}
+
+@media only screen and (min-width: 1377px) and (max-width: 1410px) {
+  .searchInput .grid-content .input[data-v-34eb597b]{
+    top:0;
+    height: 40px;
+  }
+}
+
+@media only screen and (min-width: 1931px) {
+  .el-input__inner {
+    height: 80px !important;
+    line-height: 80 !important;
+    font-size: 26px !important;
+  }
+
+  .el-date-editor .el-range__icon {
+    line-height: 70px !important;
+  }
+
+  .el-date-editor .el-range-separator {
+    line-height: 70px !important;
+  }
+
+  .el-input__icon {
+    line-height: 70px !important;
+  }
+}
+
+.el-pagination{
+  display: inline-block;
+}
+
+/*element——兼容样式--勿动End*/
+
+/*"取消"按钮统一背景色*/
+.grayBg{
+  background: gray !important;
+}

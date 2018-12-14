@@ -1,0 +1,52 @@
+﻿.node
+{
+     cursor: pointer;
+  background: url('../../../src/assets/images/tree_icon.png') no-repeat center / 100% 100%;
+}
+.node circle
+{
+    fill: #357CAE;
+    stroke: steelblue;
+    stroke-width: 3px;
+}
+.node rect {
+      fill: #2990ca;
+      stroke: steelblue;
+      stroke-width: 1.5px;
+ }
+.opened{
+
+}
+ .node text {
+      font: 14px sans-serif;
+ }
+ .n_add {
+          fill: rgba(250,0,0,1);
+          display: none;
+            width: 32px;
+            height: 32px;
+            stroke: #DC9009;
+            stroke-width: 1px;
+        }
+ .n_del {
+            fill: rgba(250,0,0,1);
+            display: none;
+            width: 32px;
+            height: 32px;
+            stroke: #DC9009;
+            stroke-width: 1px;
+        }
+  .link {
+      fill: none;
+      stroke: #ccc;
+      stroke-width: 2px;
+    }
+  .tooltip-box{
+                display: block;
+                line-height: 1.6;
+                background-color: #fff;
+                border: 1px solid #666;
+                font-size: 12px;
+                border-radius: 5px;
+                overflow: auto;
+            }
