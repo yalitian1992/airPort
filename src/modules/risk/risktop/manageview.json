@@ -1,0 +1,1457 @@
+[
+  {
+    "id": "1",
+    "count": 9,
+    "name": "管理模型根节点",
+    "value": 2.52,
+    "children": [
+	{
+        "id": "1492a4b6-d566-d6ed-dd2a-d74ad274aa93",
+        "count": 5,
+        "name": "王",
+        "value": 1.5,
+        "children": [
+          {
+            "id": "117ef8fe-dbad-b12a-a857-3b282cdd9b61",
+            "count": 4,
+            "name": "消防类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "94661ea7-d809-f52e-82ed-be1e5a5ff0c6",
+                "count": 0,
+                "name": "消防管理",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "a5582081-67e3-e02c-7053-033b28f91a3c",
+                "count": 0,
+                "name": "消防监控",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "f29f6832-ea0c-a658-7c89-5962fdd14c5b",
+                "count": 0,
+                "name": "库房",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "ffc5dede-f5fa-5f66-97ab-d69927305315",
+                "count": 0,
+                "name": "办公场所",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "1ec0dd76-ef0e-adcb-c19f-4e976fcf052c",
+            "count": 1,
+            "name": "应急救援",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "2a868318-4674-94bf-a637-c8f56d619916",
+                "count": 0,
+                "name": "应急救援",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "5ad1b04a-5dc2-34cf-352b-c5189070db8c",
+            "count": 0,
+            "name": "隐患系数",
+            "value": 1,
+            "children": null
+          },
+          {
+            "id": "7bee36e3-1ca3-83a5-1755-7062e21b1f88",
+            "count": 1,
+            "name": "防汛类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "c34c2a7d-72eb-d828-553b-256a7745f881",
+                "count": 0,
+                "name": "防汛",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "f571c6c4-cc00-beb9-9106-3ec42211fd7f",
+            "count": 1,
+            "name": "人伤类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "e90f21ca-b654-705f-31cb-1ad9f33d8c54",
+                "count": 0,
+                "name": "工作人员伤害",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1492a4b6-d566-d6ed-dd2a-d74ad274aa97",
+        "count": 5,
+        "name": "消防支队",
+        "value": 1.5,
+        "children": [
+          {
+            "id": "117ef8fe-dbad-b12a-a857-3b282cdd9b61",
+            "count": 4,
+            "name": "消防类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "94661ea7-d809-f52e-82ed-be1e5a5ff0c6",
+                "count": 0,
+                "name": "消防管理",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "a5582081-67e3-e02c-7053-033b28f91a3c",
+                "count": 0,
+                "name": "消防监控",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "f29f6832-ea0c-a658-7c89-5962fdd14c5b",
+                "count": 0,
+                "name": "库房",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "ffc5dede-f5fa-5f66-97ab-d69927305315",
+                "count": 0,
+                "name": "办公场所",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "1ec0dd76-ef0e-adcb-c19f-4e976fcf052c",
+            "count": 1,
+            "name": "应急救援",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "2a868318-4674-94bf-a637-c8f56d619916",
+                "count": 0,
+                "name": "应急救援",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "5ad1b04a-5dc2-34cf-352b-c5189070db8c",
+            "count": 0,
+            "name": "隐患系数",
+            "value": 1,
+            "children": null
+          },
+          {
+            "id": "7bee36e3-1ca3-83a5-1755-7062e21b1f88",
+            "count": 1,
+            "name": "防汛类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "c34c2a7d-72eb-d828-553b-256a7745f881",
+                "count": 0,
+                "name": "防汛",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "f571c6c4-cc00-beb9-9106-3ec42211fd7f",
+            "count": 1,
+            "name": "人伤类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "e90f21ca-b654-705f-31cb-1ad9f33d8c54",
+                "count": 0,
+                "name": "工作人员伤害",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14f7e1b9-b5e8-3b58-25b4-7c5b30228626",
+        "count": 5,
+        "name": "信息科技部",
+        "value": 1.5,
+        "children": [
+          {
+            "id": "21e9b207-bdcc-5db9-8c91-e907114a0896",
+            "count": 2,
+            "name": "消防类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "0dfc8ba5-ab56-b492-8a66-3e30d087d0fa",
+                "count": 0,
+                "name": "办公用房（值班室）",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "1c3baf7d-d26d-4f10-57b4-db2250d18e92",
+                "count": 0,
+                "name": "机房（ITC）、库房",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "29324e17-798d-d727-7c52-2328a6711748",
+            "count": 0,
+            "name": "隐患系数",
+            "value": 1,
+            "children": null
+          },
+          {
+            "id": "825d4d44-4a6a-2c23-f0ab-13eae87f663d",
+            "count": 1,
+            "name": "信息安全",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "b6fc8097-362f-956c-57be-92a75c176270",
+                "count": 0,
+                "name": "信息安全",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "a9e6b1b0-1934-fb4a-117d-bb7afd4a9a18",
+            "count": 1,
+            "name": "空防反恐",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "c090a226-a1fe-2de6-a398-9771aae748b5",
+                "count": 0,
+                "name": "空防",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "f2b7498d-1836-bbe7-bbe3-a6d44d5f9b48",
+            "count": 1,
+            "name": "人伤类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "0cb7346d-1655-3f9c-5d01-697f9910c619",
+                "count": 0,
+                "name": "工作人员伤害",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b6ea64f-d085-c893-f5fe-1ba67d9468ab",
+        "count": 6,
+        "name": "公共区管理部",
+        "value": 1.5,
+        "children": [
+          {
+            "id": "17647360-565e-4545-e4d1-b76e6beae7ba",
+            "count": 3,
+            "name": "系统工程",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "d0fd993a-855d-3c79-d637-9cffb3039f00",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "e22b66cf-9f33-fe70-e266-a871d9f02a71",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "fe832f93-d5d1-5ee5-86bb-fac081c4377f",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "3011030f-a01d-dd46-ad15-dfdda6950c17",
+            "count": 4,
+            "name": "运输管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "05350d6b-5af2-61bc-566e-3766ca4d40cb",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "0faeb5a7-bd73-1156-3411-79fdb7273ee3",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "d5435679-f6a5-3884-1d06-fcf68698d7e3",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "fd0fec25-0c47-9bcf-657c-cb994379ebb5",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "3c7fcdea-740f-0fba-4d67-6f583c55768c",
+            "count": 5,
+            "name": "停车管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "06c28e88-b142-6041-f10f-abdd6bd331bb",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "10539fb3-e464-ba02-afda-e507b42fab94",
+                "count": 0,
+                "name": "防汛类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "19b9e52d-e2ea-2d51-fb4d-da58c41f9055",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "3f32efa6-a259-0afa-7cce-1877575aef17",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "a21c728a-d28a-ebfa-5741-26f8fb9c5b37",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "46549b96-0d24-3a09-8b02-0eda94e54e2c",
+            "count": 4,
+            "name": "物业管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "44dd1350-4048-d5bf-abbb-ce4edb652c26",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "8384e646-7cc6-1870-5eb4-ab33b9c36017",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "94af3ba4-b7e5-1354-d673-d5e380bbee21",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "de312bad-1091-8cc4-deaf-68559b65b6ca",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "72a22abc-a000-2061-eeda-61d7970e04ce",
+            "count": 6,
+            "name": "运行管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "240a80f3-0bd2-455f-989d-f50b539d0504",
+                "count": 0,
+                "name": "防汛类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "3e056226-235b-0a3c-8fde-b243c0acfa6a",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "54d47e44-dca2-be8c-2a01-6f1d367a66d6",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "62ec6eca-6b24-8c81-13ee-76b67b7d6fe5",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "d6affd91-5e1b-8c24-dc5c-9883057aaa99",
+                "count": 0,
+                "name": "应急救援",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "dff772fe-2812-bbd1-d1bd-9565a8b17e1d",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "e484992f-67e5-5ae1-a4ef-4213c682a075",
+            "count": 2,
+            "name": "安全管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "18cadfd3-8ecd-1e80-0e89-cba677caf941",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "bf6ae1b9-0204-53b6-ca18-15f7b95e159f",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "49c4702d-3b2a-6c12-4308-37b7cfed1143",
+        "count": 7,
+        "name": "航站楼管理部",
+        "value": 1.5,
+        "children": [
+          {
+            "id": "38473f9f-9392-3ed4-18e2-d154eba3c80b",
+            "count": 4,
+            "name": "机电管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "70eabdba-085f-e5b2-a1ca-b26d63e12d36",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "c14cba54-d678-2ca0-15ea-317c413bd49e",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "c224f5ee-a8d2-6e78-03f4-b1b35271bcae",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "f910d79e-6a0a-7a79-989d-0473e63589df",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "3f938710-d221-cc72-cd07-b5cb52ab50f0",
+            "count": 4,
+            "name": "APM管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "30810a25-5b0b-1778-4ac3-974916679f6f",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "72475e66-01bd-5b15-9332-736d9e56daf6",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "73efe760-b70b-0a99-49e3-42f40ab65106",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "a77a6009-574f-ac36-d106-5123ef4b4b41",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "5e5c6077-57b4-9710-303a-eb9061583344",
+            "count": 5,
+            "name": "楼宇管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "2e085423-5227-d1ba-a143-f1445bcc2c96",
+                "count": 0,
+                "name": "航空器类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "6197d55e-89f9-7972-87c6-aeef90239d85",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "6c6c6570-ee9a-87d8-280d-4120151c00a2",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "84e2f42f-e839-a69f-d42e-b9afc5664b14",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "d878228a-6632-b403-4505-5f74126309c7",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "82a576e8-ccfe-8a70-c849-7a146df68a47",
+            "count": 3,
+            "name": "服务管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "2cd28061-2cce-09fe-0cfd-b90f90dd5cf9",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "d160ac9a-ea5c-5a58-5bec-ef1492db1374",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "ddd6dbab-7c41-20d4-1c3c-8f82336dce42",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "8e022932-687a-fc1e-9dca-8fa7af53a0fc",
+            "count": 4,
+            "name": "行李管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "0425109f-c308-6332-04c7-e27a92778ea6",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "82b81935-da2b-8122-f2af-0263f04a837d",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "882745b7-3611-078b-8884-e86eb1ff9e40",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "8d75e27a-14f5-8ed5-02fb-26f050ce92a0",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "99133287-54d1-e276-54ab-32ca06fd0ee1",
+            "count": 7,
+            "name": "运行管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "0a036cb6-38fc-acbe-c1ec-d5a6b69ff88c",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "1d0cd37e-6faa-48f6-516a-75fb21d23645",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "380257ca-e954-09c7-2ac4-f6211204aa56",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "681cc1b1-0eaf-b8c8-86a6-88a5f2f86aa3",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "69977bae-708b-247d-c208-eb2994ee3449",
+                "count": 0,
+                "name": "信息通报",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "aba13989-e971-4939-55b4-ddce9655b9dd",
+                "count": 0,
+                "name": "防汛类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "eb2f45bf-0e0d-2d4a-1a46-f7dca71efb56",
+                "count": 0,
+                "name": "应急救援",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "a55c487a-3424-ff83-57b7-6c0636f25b6c",
+            "count": 4,
+            "name": "安全管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "14b5b000-0a6e-9fd6-8468-11bb08bfb64d",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "6853fbe1-2d26-1921-470d-9a85467b3ec9",
+                "count": 0,
+                "name": "空防反恐",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "9b4970af-9b26-5141-c51b-34fb3767e9c7",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "ea891a46-1dbf-217a-f615-687652b64dbd",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4eb7719a-b52d-e382-8a98-8e0491b20039",
+        "count": 0,
+        "name": "开发用子节点，莫动，莫动",
+        "value": 3.09090909090909,
+        "children": null
+      },
+      {
+        "id": "7f00ed48-baef-a2bf-ce13-3cc822321fd8",
+        "count": 6,
+        "name": "建设项目管理中心",
+        "value": 1.5,
+        "children": [
+          {
+            "id": "579c6b27-7cef-32e5-0a57-fdd5d12bb615",
+            "count": 3,
+            "name": "消防类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "47fa4b99-c4b3-3b4d-2054-4594610f5d4f",
+                "count": 0,
+                "name": "施工现场临时用房",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "77da3a38-e032-b608-c915-59d7966d010f",
+                "count": 0,
+                "name": "施工动火",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "c4e5619c-1265-edda-5cd0-0e2142a8d700",
+                "count": 0,
+                "name": "车辆设备",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "83429bbb-4848-5707-61e7-48dbbb92dc6b",
+            "count": 1,
+            "name": "人伤类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "6fa3b83d-a450-b6f6-997c-f5dca120098b",
+                "count": 0,
+                "name": "工作人员伤害",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "abd7bac9-91b0-0107-3aaf-cb6aa54087a5",
+            "count": 0,
+            "name": "隐患系数",
+            "value": 1,
+            "children": null
+          },
+          {
+            "id": "adffa468-9ba0-9301-6673-339b92cf7003",
+            "count": 1,
+            "name": "项目资质系数",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "c87df5fe-615d-bf48-2fe0-2c8a332cd766",
+                "count": 0,
+                "name": "项目资质系数",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "b184890f-c471-7583-2e92-479799178d33",
+            "count": 2,
+            "name": "航空器类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "444e6e5e-2a35-e013-7d44-38dde726bc5a",
+                "count": 0,
+                "name": "净空导致损伤",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "4ab3ba49-45d2-c856-dc83-4e9cc2fa9b8a",
+                "count": 0,
+                "name": "外来物导致损伤",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "d5a6cf70-868e-685a-34cd-99b7ddc6eed1",
+            "count": 2,
+            "name": "跑道侵入",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "026a4ff1-38c0-22e1-2fd7-bd93eff84a8b",
+                "count": 0,
+                "name": "车辆入侵",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "98ca5b91-23f2-ed9e-367a-a56d2bbdd0d6",
+                "count": 0,
+                "name": "人员入侵",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bd8b8aba-ab3a-059c-c48a-99a02d475694",
+        "count": 9,
+        "name": "飞行区管理部",
+        "value": 3.83,
+        "children": [
+          {
+            "id": "255f68d5-20d5-e34f-638c-4c1e38648e8d",
+            "count": 5,
+            "name": "运行管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "35ac64a0-743f-f52a-a091-897d82cc4e83",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "409d7fe7-273b-643d-d250-fc12c603d9be",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "6a26f416-40f8-a03d-25a6-10f0f35b0e2e",
+                "count": 0,
+                "name": "跑到侵入",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "79a90500-50df-98dd-317e-7de66887503f",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "e49b2aa5-2af5-3a38-8bc7-f6a87b3e27d3",
+                "count": 0,
+                "name": "应急救援",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "346583ab-6cff-37bb-b766-e5ed7fe731f4",
+            "count": 4,
+            "name": "系统管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "1fdcf87b-a2cb-1e06-b040-e45bf495fc67",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "30909acd-aa41-39e5-5d69-a7a982f3bfce",
+                "count": 0,
+                "name": "航空器类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "3feef488-a52c-28c6-6b64-8b0f85d0c83e",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "a65eadcb-4681-c869-9ea7-fba8a93a4ea6",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "77ebca22-bb8e-827d-b2d1-4bbee5b30b8c",
+            "count": 5,
+            "name": "航空安保",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "003092a3-246d-ddc4-1b28-227111356bc0",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "4dea1d19-8e77-f755-ca35-ff8e2ec548a2",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "59a499a5-b828-7158-9df7-2ee40a128e77",
+                "count": 0,
+                "name": "空防反恐类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "97def0ef-6ddc-0b9a-d107-0ba50621d37e",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "e074dbc5-f970-2fb8-7fd0-feb2710afc4a",
+                "count": 0,
+                "name": "跑道侵入类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "78788240-0c10-9cf9-7096-7be1943b3035",
+            "count": 6,
+            "name": "工程管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "00f3e664-face-437a-3278-84fe7c5686e6",
+                "count": 0,
+                "name": "跑到侵入类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "025e76bb-64df-1235-217d-968776ed5d74",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "4159e6a0-82d4-daea-42ba-9aed9431c370",
+                "count": 0,
+                "name": "空防反恐类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "578c333b-a5b7-29f3-67ec-8f500889ddc9",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "79d9d2b5-1413-5ebf-816e-c45fc1c2758b",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "b1bfc0bf-633b-8a64-6ee2-a930b416087a",
+                "count": 0,
+                "name": "航空器类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "93ad9c6f-ee3e-852a-b4ec-91e146e722e1",
+            "count": 5,
+            "name": "灯光管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "63698710-a184-bd83-47c6-3942c9f2fa05",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "6e279cb2-57d7-4a17-c698-6ed53eaf3d1a",
+                "count": 0,
+                "name": "跑道侵入类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "a4b26e31-4cd3-d5ee-4a8d-ab32771f4fad",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "aeb2ac1c-f673-86c1-1a3b-55c4f1d7ebe5",
+                "count": 0,
+                "name": "航空器类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "fdccef70-cb42-73b7-6b60-93a1275ee4b1",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "9dffe025-6ea1-836c-66ba-2511eba502cf",
+            "count": 5,
+            "name": "机坪交通",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "2ccbcce1-7430-e8dd-ed56-4d80943f1525",
+                "count": 0,
+                "name": "航空器类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "2d6b70be-dca9-7eb0-177a-57f1419bcf5a",
+                "count": 0,
+                "name": "跑到侵入类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "6cc59a5a-b8a5-b5fe-f90b-3f8e557f5592",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "77a64eac-11de-46fc-b821-c2be4892a757",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "a4d3c8f9-510b-60aa-5b8f-161a135d9389",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "bfc459e2-b18a-9301-9b78-a12ed66231c5",
+            "count": 6,
+            "name": "鸟击管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "14009c8b-5e83-1981-8a97-e32090dcf98a",
+                "count": 0,
+                "name": "跑道侵入类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "1d9c4504-3857-1d92-182f-d9bd1d1cc62d",
+                "count": 0,
+                "name": "空防反恐类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "3c3c3f68-67e7-31fd-47f0-f7ace423371c",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "94cdad83-58e5-3ad9-ca9d-863f2a677869",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "ada34b34-f473-3225-3599-babc292a8540",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "fe22c299-ea45-ec70-1084-ecdbeae63514",
+                "count": 0,
+                "name": "航空器类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "c564ae3e-c9fa-f83d-596f-5a7a4cce2e9d",
+            "count": 6,
+            "name": "场道管理",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "00755bc0-5540-c295-a9f7-df98facb20c2",
+                "count": 0,
+                "name": "航空器类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "4887198b-d1e2-767f-ac1e-4c29c452696f",
+                "count": 0,
+                "name": "人伤类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "805deeb6-aecd-98b3-d5dd-556df7e3cc76",
+                "count": 0,
+                "name": "跑道侵入类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "c7f08a98-0138-c69c-1e56-649f569008b5",
+                "count": 0,
+                "name": "空防反恐类",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "de5a15e4-5bcb-2ddf-38bd-d93bbc75cd40",
+                "count": 0,
+                "name": "消防类",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "fd5af92a-8381-1766-49c7-a247426054c6",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "ee54a1c1-6016-90ae-9fcd-681e586b6a85",
+            "count": 4,
+            "name": "安全规划",
+            "value": 5.5,
+            "children": [
+              {
+                "id": "09b82918-3e12-c19d-4e58-ca732cd00594",
+                "count": 0,
+                "name": "人伤类",
+                "value": 6.93,
+                "children": null
+              },
+              {
+                "id": "752cbf6e-67ea-8e8b-4488-31eb3ba89da0",
+                "count": 0,
+                "name": "隐患系数",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "98faa5b8-ec12-bb7b-c7de-0a54485a3018",
+                "count": 0,
+                "name": "空防反恐类",
+                "value": 1,
+                "children": null
+              },
+              {
+                "id": "a0c91b6a-f04b-eceb-a13f-636268040f9d",
+                "count": 0,
+                "name": "航空器类",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "c8dffd92-fefa-6279-56cc-83ac81069cd3",
+        "count": 3,
+        "name": "质量安全部",
+        "value": 1.5,
+        "children": [
+          {
+            "id": "4e621cdc-26f4-d10a-6179-58e385e11e72",
+            "count": 0,
+            "name": "隐患系数",
+            "value": 1,
+            "children": null
+          },
+          {
+            "id": "7160317d-8662-ee95-2d23-3193c76bfe98",
+            "count": 2,
+            "name": "空防反恐",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "7837b7b6-153e-fc61-2346-0734a00467b3",
+                "count": 0,
+                "name": "空防",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "a3b239e1-cdb8-1d00-a54b-9552a1faeb9d",
+                "count": 0,
+                "name": "反恐",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "efb9bf53-060b-a2c5-721b-56ad87c5e763",
+            "count": 1,
+            "name": "消防类",
+            "value": 1,
+            "children": [
+              {
+                "id": "5dd950ef-3385-720a-0d53-7cd761f8261f",
+                "count": 0,
+                "name": "消防",
+                "value": 1,
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "db385063-a0a7-063a-e5e7-6b4eaacbf875",
+        "count": 5,
+        "name": "运行控制中心",
+        "value": 1.5,
+        "children": [
+          {
+            "id": "6294f3ba-553c-973e-49d2-8c757b9d3a53",
+            "count": 1,
+            "name": "人伤类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "e9701493-02cd-abe9-d893-3467844b8699",
+                "count": 0,
+                "name": "工作人员伤害",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "95d79f33-5ec7-b260-c922-82d1b038c9ac",
+            "count": 1,
+            "name": "防汛类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "45ff0f37-938f-83a8-efea-1b92949ae8cd",
+                "count": 0,
+                "name": "防汛",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "bc1a98e9-cffe-674f-3943-ebabba83ddf1",
+            "count": 0,
+            "name": "隐患系数",
+            "value": 1,
+            "children": null
+          },
+          {
+            "id": "c95e0717-9ea1-34f8-28e5-58af1485e982",
+            "count": 3,
+            "name": "航空器类",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "6a8e1ed8-2da6-e6fb-e6ea-e5694f3f205e",
+                "count": 0,
+                "name": "航班计划管理",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "90dbfb4b-806f-013e-760d-6b6f41d730c2",
+                "count": 0,
+                "name": "机位分配管理",
+                "value": 1.5,
+                "children": null
+              },
+              {
+                "id": "f4780e69-067c-711a-8d23-1716e762a24b",
+                "count": 0,
+                "name": "机坪管制管理",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "ff275ffc-df3c-789a-dcd2-78e2c3caaad4",
+            "count": 1,
+            "name": "应急救援",
+            "value": 1.5,
+            "children": [
+              {
+                "id": "2dc77f01-aac9-ab04-acee-69d15f73f021",
+                "count": 0,
+                "name": "应急救援",
+                "value": 1.5,
+                "children": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

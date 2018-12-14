@@ -1,0 +1,717 @@
+[
+    {
+        "id": 1,
+        "count": 8,
+        "name": "首都机场",
+        "value":2,
+        "children":[
+            {
+                "id": 1,
+                "conut": 2,
+                "name": "跑道入侵",
+                "value":2,
+                "children":[
+                    { 
+                        "id": 1,
+                        "conut": 7,
+                        "value":4,
+                        "name": "飞行区管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"场道管理",
+                                "value":4
+                            },
+                            {
+                                "id": 2,
+                                "name":"机坪交通",
+                                "value":7
+                            },
+                            {
+                                "id": 3,
+                                "name":"鸟击管理",
+                                "value":2
+                            },
+                            {
+                                "id": 4,
+                                "name":"运行管理",
+                                "value":9
+                            },
+                            {
+                                "id": 5,
+                                "name":"灯光管理",
+                                "value":3
+                            },
+                            {
+                                "id": 6,
+                                "name":"工程管理",
+                                "value":5
+                            },
+                            {
+                                "id": 7,
+                                "name":"航空安保",
+                                "value":7
+                            }
+                        ]
+                    },
+                    { 
+                        "id": 2,
+                        "name": "建设项目管理中心",
+                        "value":7,
+                        "conut": 0
+                    }
+                ]
+            }, 
+            {
+                "id": 2,
+                "conut": 3,
+                "name": "防汛类",
+                "value":4,
+                "children":[
+                    {
+                        "id": 1,
+                        "name":"航站楼管理部",
+                        "value":8,
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"运行管理",
+                                "value":9
+                            },
+                            {
+                                "id": 2,
+                                "name":"安全管理",
+                                "value":8
+                            },
+                            {
+                                "id": 3,
+                                "name":"楼宇管理",
+                                "value":3
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name":"公共区管理部",
+                        "value":4,
+                        "children":[
+                            {
+                                "id":1,
+                                "name":"运行管理",
+                                "value":2
+                            },
+                            {
+                                "id":2,
+                                "name":"停车管理",
+                                "value":6
+                            },
+                            {
+                                "id":3,
+                                "name":"物业管理",
+                                "value":8
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name":"运行控制中心",
+                        "value":3
+                    }
+                ]
+            }, 
+            {
+                "id": 3,
+                "conut": 8,
+                "name":"消防类",
+                "value":4,
+                "children":[
+                    {
+                        "id": 1,
+                        "name":"飞行区管理部",
+                        "value":6,
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"场道管理",
+                                "value":2
+                            },
+                            {
+                                "id": 2,
+                                "name":"机坪交通",
+                                "value":5
+                            },
+                            {
+                                "id": 3,
+                                "name":"安全规划",
+                                "value":1
+                            },
+                            {
+                                "id": 4,
+                                "name":"鸟击管理",
+                                "value":9
+                            },
+                            {
+                                "id": 5,
+                                "name":"运行管理",
+                                "value":5
+                            },
+                            {
+                                "id": 6,
+                                "name":"灯光管理",
+                                "value":4
+                            },
+                            {
+                                "id": 7,
+                                "name":"系统管理",
+                                "value":6
+                            },
+                            {
+                                "id": 8,
+                                "name":"工程管理",
+                                "value":7
+                            },
+                            {
+                                "id": 9,
+                                "name":"航空安保",
+                                "value":6
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "value":6,
+                        "conut": 7,
+                        "name":"航站楼管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"运行管理",
+                                "value":9
+                            },
+                            {
+                                "id": 2,
+                                "name":"安全管理",
+                                "value":6
+                            },
+                            {
+                                "id": 3,
+                                "name":"APM管理",
+                                "value":6
+                            },
+                            {
+                                "id": 4,
+                                "name":"机电管理",
+                                "value":5
+                            },
+                            {
+                                "id": 5,
+                                "name":"楼宇管理",
+                                "value":6
+                            },
+                            {
+                                "id": 6,
+                                "name":"行李管理",
+                                "value":1
+                            },
+                            {
+                                "id": 7,
+                                "name":"服务管理",
+                                "value":4
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "value":6,
+                        "conut": 5,
+                        "name":"公共区管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"运行管理",
+                                "value":5
+                            },
+                            {
+                                "id": 2,
+                                "name":"停车管理",
+                                "value":1
+                            },
+                            {
+                                "id": 3,
+                                "name":"物业管理",
+                                "value":8
+                            },
+                            {
+                                "id": 4,
+                                "name":"运输管理",
+                                "value":3
+                            },
+                            {
+                                "id": 5,
+                                "name":"系统工程",
+                                "value":6
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "value":1,
+                        "name":"建设项目管理中心"
+                    },
+                    {
+                        "id": 5,
+                        "value":2,
+                        "name":"运行控制中心"
+                    },
+                    {
+                        "id": 6,
+                        "value":8,
+                        "name":"信息科技部"
+                    },
+                    {
+                        "id": 7,
+                        "value":9,
+                        "name":"消防支队"
+                    },
+                    {
+                        "id": 8,
+                        "value":4,
+                        "name":"质量安全部"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "conut": 4,
+                "value":2,
+                "name":"应急救援",
+                "children":[
+                    {
+                        "id": 1,
+                        "conut": 1,
+                        "value":5,
+                        "name":"飞行区管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "value":1,
+                                "name":"运行管理"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "conut": 1,
+                        "value":9,
+                        "name":"航站楼管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "value":5,
+                                "name":"运行管理"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "conut": 1,
+                        "value":5,
+                        "name":"公共区管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "value":1,
+                                "name":"运行管理"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "conut": 1,
+                        "value":6,
+                        "name":"运行控制中心",
+                        "children":[
+                            {
+                                "id": 1,
+                                "value":2,
+                                "name":"运行管理"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "conut": 6,
+                "value":8,
+                "name":"空防反恐",
+                "children":[
+                    {
+                        "id": 1,
+                        "conut": 6,
+                        "value":8,
+                        "name":"飞行区管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"场道管理",
+                                "value":3
+                            },
+                            {
+                                "id": 2,
+                                "name":"机坪交通",
+                                "value":4
+                            },
+                            {
+                                "id": 3,
+                                "name":"安全规划",
+                                "value":1
+                            },
+                            {
+                                "id": 4,
+                                "name":"鸟击管理",
+                                "value":8
+                            },
+                            {
+                                "id": 5,
+                                "name":"工程管理",
+                                "value":9
+                            },
+                            {
+                                "id": 6,
+                                "name":"航空安保",
+                                "value":5
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "conut": 6,
+                        "value":6,
+                        "name":"航站楼管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"运行管理",
+                                "value":1
+                            },
+                            {
+                                "id": 2,
+                                "name":"安全管理",
+                                "value":8
+                            },
+                            {
+                                "id": 3,
+                                "name":"APM管理",
+                                "value":6
+                            },
+                            {
+                                "id": 4,
+                                "name":"机电管理",
+                                "value":4
+                            },
+                            {
+                                "id": 5,
+                                "name":"楼宇管理",
+                                "value":2
+                            },
+                            {
+                                "id": 6,
+                                "name":"行李管理",
+                                "value":4
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "conut": 5,
+                        "value":2,
+                        "name":"公共区管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "value":4,
+                                "name":"运行管理"
+                            },
+                            {
+                                "id": 2,
+                                "value":6,
+                                "name":"安全管理"
+                            },
+                            {
+                                "id": 3,
+                                "value":1,
+                                "name":"停车管理"
+                            },
+                            {
+                                "id": 4,
+                                "value":2,
+                                "name":"物业管理"
+                            },
+                            {
+                                "id": 5,
+                                "value":8,
+                                "name":"运输管理"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "value":8,
+                        "name":"运行控制中心"
+                    },
+                    {
+                        "id": 5,
+                        "value":3,
+                        "name":"信息科技部"
+                    },
+                    {
+                        "id": 6,
+                        "value":6,
+                        "name":"质量安全部"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "conut": 4,
+                "value":4,
+                "name":"航空器类",
+                "children":[
+                    {
+                        "id": 1,
+                        "conut": 4,
+                        "value":7,
+                        "name":"飞行区管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"场道管理",
+                                "value":1
+                            },
+                            {
+                                "id": 2,
+                                "name":"机坪交通",
+                                "value":5
+                            },
+                            {
+                                "id": 3,
+                                "name":"安全规划",
+                                "value":7
+                            },
+                            {
+                                "id": 4,
+                                "name":"鸟击管理",
+                                "value":4
+                            },
+                            {
+                                "id": 5,
+                                "name":"灯光管理",
+                                "value":3
+                            },
+                            {
+                                "id": 6,
+                                "name":"系统管理",
+                                "value":4
+                            },
+                            {
+                                "id": 7,
+                                "name":"工程管理",
+                                "value":7
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "conut": 1,
+                        "value":4,
+                        "name":"航站楼管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "value":1,
+                                "name":"楼宇管理"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "value":3,
+                        "name":"建设项目管理中心"
+                    },
+                    {
+                        "id": 4,
+                        "value":8,
+                        "name":"运行控制中心"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "conut": 6,
+                "value":1,
+                "name":"人伤类",
+                "children":[
+                    {
+                        "id": 1,
+                        "conut": 9,
+                        "value":1,
+                        "name":"飞行区管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"场道管理",
+                                "value":3
+                            },
+                            {
+                                "id": 2,
+                                "name":"机坪交通",
+                                "value":2
+                            },
+                            {
+                                "id": 3,
+                                "name":"安全规划",
+                                "value":7
+                            },
+                            {
+                                "id": 4,
+                                "name":"鸟击管理",
+                                "value":4
+                            },
+                            {
+                                "id": 5,
+                                "name":"运行管理",
+                                "value":1
+                            },
+                            {
+                                "id": 6,
+                                "name":"灯光管理",
+                                "value":5
+                            },
+                            {
+                                "id": 7,
+                                "name":"系统管理",
+                                "value":3
+                            },
+                            {
+                                "id": 8,
+                                "name":"工程管理",
+                                "value":1
+                            },
+                            {
+                                "id": 9,
+                                "name":"航空安保",
+                                "value":4
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "conut": 7,
+                        "value":6,
+                        "name":"航站楼管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "name":"运行管理",
+                                "value":4
+                            },
+                            {
+                                "id": 2,
+                                "name":"安全管理",
+                                "value":3
+                            },
+                            {
+                                "id": 3,
+                                "name":"APM管理",
+                                "value":6
+                            },
+                            {
+                                "id": 4,
+                                "name":"机电管理",
+                                "value":4
+                            },
+                            {
+                                "id": 5,
+                                "name":"楼宇管理",
+                                "value":2
+                            },
+                            {
+                                "id": 6,
+                                "name":"行李管理",
+                                "value":8
+                            },
+                            {
+                                "id": 7,
+                                "name":"服务管理",
+                                "value":9
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "conut":4,
+                        "value":3,
+                        "name":"公共区管理部",
+                        "children":[
+                            {
+                                "id": 1,
+                                "value":3,
+                                "name":"停车管理"
+                            },
+                            {
+                                "id": 2,
+                                "value":5,
+                                "name":"物业管理"
+                            },
+                            {
+                                "id": 3,
+                                "value":8,
+                                "name":"运输管理"
+                            },
+                            {
+                                "id": 4,
+                                "value":3,
+                                "name":"系统工程"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "value":3,
+                        "name":"建设项目管理中心"
+                    },
+                    {
+                        "id": 5,
+                        "value":1,
+                        "name":"运行控制中心"
+                    },
+                    {
+                        "id": 6,
+                        "value":8,
+                        "name":"信息科技部"
+                    },
+                    {
+                        "id": 7,
+                        "value":4,
+                        "name":"消防支队"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "conut": 1,
+                "value":4,
+                "name":"信息安全",
+                "children":[
+                    {
+                        "id": 1,
+                        "value":1,
+                        "name":"信息科技部"
+                    }
+                ]
+            }
+        ]
+    }
+]
+    
